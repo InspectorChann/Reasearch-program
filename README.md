@@ -1,5 +1,7 @@
 # Reasearch-program
-855
 
 ## 2023/11/3
 - git connected and upload
+
+## 2023/11/13
+- two nodes model finished

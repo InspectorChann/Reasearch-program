@@ -8,3 +8,6 @@
 
 ## 2023/11/14
 - model reliability test finished
+
+## 2023/12/21
+- link new computer 
